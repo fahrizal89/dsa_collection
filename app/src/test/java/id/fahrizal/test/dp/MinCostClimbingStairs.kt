@@ -1,8 +1,7 @@
-package id.fahrizal.test
+package id.fahrizal.test.dp
 
 import org.junit.Assert
 import org.junit.Test
-import kotlin.math.cos
 
 class MinCostClimbingStairs {
     /*
